@@ -31,3 +31,4 @@ basics/*
 
 # Ignore VS Code settings
 basics/.vscode/
+.DS_Store
