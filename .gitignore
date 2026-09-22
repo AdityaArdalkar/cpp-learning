@@ -17,3 +17,17 @@ basics/square
 basics/sum
 basics/swap
 basics/vote
+
+# Ignore all compiled C++ executables
+basics/*
+!basics/*.cpp
+!basics/.vscode/
+cat > .gitignore <<'EOF'
+# Compiled C++ executables
+basics/*
+
+# Keep C++ source files
+!basics/*.cpp
+
+# Ignore VS Code settings
+basics/.vscode/
