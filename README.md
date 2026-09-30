@@ -116,12 +116,12 @@ The focus here is not just finishing topics, but actually writing code, making m
   - Base-class pointers and references
   - Virtual destructors
 
-- [ ] Day 14 — Function & Operator Overloading
+- [x] Day 14 — Function & Operator Overloading
   - Function overloading
   - Operator overloading
   - Custom behavior for operators
 
-- [ ] Day 15 — OOP Practice & Mini Project
+- [x] Day 15 — OOP Practice & Mini Project
 
 ---
 
